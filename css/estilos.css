@@ -1,0 +1,46 @@
+* {
+  font-family: Inter, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  font-size: 14px;
+  width: 90%;
+  margin: 0 auto;
+}
+h1.p {text-align: center; color: darkblue;}
+h1 span {font-size: 0.8em; color: darkgrey;}
+h2 {font-size: 1.2em; background-color: #dcf4f0; line-height: 1.8em;}
+h3 {font-size: 1.1em; background-color: #effaf8; line-height: 1.5em;}
+
+details {
+  background-color: #effaf8; /*https://www.colorhexa.com/*/
+}
+
+details.prin { background-color: white; padding-left: 2em;}
+summary h2 {display: inline-block;}
+
+summary {
+  font-weight: 600;
+  font-size: 1.1em;
+  background-color: white;
+}
+
+summary a {
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+}
+
+summary a:hover {text-decoration: overline; background-color: antiquewhite}
+blockquote {font-size: 0.9 !important; margin-top: 0.1em; margin-bottom: 0.1em;}
+
+ul {list-style: circle; padding-bottom: 1em; margin-bottom: 1em;}
+.tema {font-size: 0.8em; padding-left: 2em;}
+.tema img {padding-top: 5px;}
+
+sup {font-weight: bolder; font-size: 1.1; color: blue;}
+li {margin-bottom: 0.3em;}
+figure {color: darkblue; font-size: 0.85em; text-align: center}
+
+.centro {text-align: center;}
+mark {background-color: #FFF9C4 ;}
