@@ -1,2 +1,2 @@
 # gri
-Ejercicios del Curso de GRI
+Temario de POO Gri
